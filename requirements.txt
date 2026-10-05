@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+# optional (only for the LSTM neural network, run with --lstm):
+# torch
